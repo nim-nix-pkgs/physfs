@@ -9,7 +9,7 @@
   
   inputs.src-physfs-master.flake = false;
   inputs.src-physfs-master.owner = "fowlmouth";
-  inputs.src-physfs-master.ref   = "refs/heads/master";
+  inputs.src-physfs-master.ref   = "master";
   inputs.src-physfs-master.repo  = "physfs";
   inputs.src-physfs-master.type  = "github";
   
