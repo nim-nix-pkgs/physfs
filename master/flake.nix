@@ -11,6 +11,7 @@
   inputs.src-physfs-master.ref   = "refs/heads/master";
   inputs.src-physfs-master.owner = "fowlmouth";
   inputs.src-physfs-master.repo  = "physfs";
+  inputs.src-physfs-master.dir   = "";
   inputs.src-physfs-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
