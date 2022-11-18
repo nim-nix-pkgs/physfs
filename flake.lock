@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334728,
-        "narHash": "sha256-/BoTPkJwuOBWLnTxgU0dLXxncR61TKGViNnMmdbf4NU=",
+        "lastModified": 1668748986,
+        "narHash": "sha256-LCs0Rm8BRDHQI+p7fi6WWYF3fMYvsPwTLiAEHH8yLIk=",
         "owner": "nim-nix-pkgs",
         "repo": "physfs",
-        "rev": "9edf665d0f3801a09be11bcedc7f91b65e90270e",
+        "rev": "e443214a3a7f5c38a12832ae06d3b0369d0fbbf6",
         "type": "github"
       },
       "original": {
